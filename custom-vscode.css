@@ -47,3 +47,8 @@
   background-size: contain !important;
   width: 100px !important;
 }
+
+.monaco-hover {
+  border-radius: 10px !important;
+  box-shadow: -10px 5px 20px 15px rgb(0 0 0 / 45%) !important;
+}
