@@ -56,3 +56,11 @@
 .codicon-close:before {
   color: #d90505 !important;
 }
+
+.monaco-icon-label-container {
+  font-family: Consolas, monospace !important;
+}
+
+.monaco-findInput {
+  font-family: monospace !important;
+}
